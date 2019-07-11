@@ -15,4 +15,4 @@ Due to the limited redundancy that Hamming codes add to the data, they can only 
 ----------------------------------------------------------------------------------------------
 
 
-The code basically generates all the possible code words from the Generator Matrix(G) and introduces and error in the data and uses the Syndrome Matrix (S) for the error detection.
+The code basically generates all the possible code words from the Generator Matrix(G) and introduces an error in the data and uses the Syndrome Matrix (S) for the error detection.
